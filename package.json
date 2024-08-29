@@ -6,7 +6,7 @@
   "types": "./dist/index.d.ts",
   "homepage": "https://google.com",
   "repository": {
-    "url": "https://github.com/minde8888/"
+    "url": "https://github.com/minde8888/node_module"
   },
   "scripts": {
     "build": "tsup"
